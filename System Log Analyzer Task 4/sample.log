@@ -1,0 +1,5 @@
+2026-05-05 10:00:01 INFO System started successfully
+2026-05-05 10:01:10 WARNING Disk usage is high
+2026-05-05 10:02:22 ERROR Failed to connect to database
+2026-05-05 10:03:45 INFO User login successful
+2026-05-05 10:05:00 ERROR Timeout occurred

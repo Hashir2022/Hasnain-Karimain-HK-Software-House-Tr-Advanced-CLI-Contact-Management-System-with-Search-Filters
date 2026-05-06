@@ -1,0 +1,7 @@
+SYSTEM LOG REPORT
+=================
+
+Total Logs: 5
+INFO: 2
+WARNING: 1
+ERROR: 2
