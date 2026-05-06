@@ -1,0 +1,10 @@
+Subject: Welcome to {company}
+
+Hello {name},
+
+Welcome to {company}!  
+We are happy to have you onboard.
+
+Best Regards,  
+Engr Hashir Ahmed Buriro
+Automation System
